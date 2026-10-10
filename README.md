@@ -4,7 +4,7 @@ Este repositorio contiene el código fuente del sitio web desarrollado para **ES
 
 ## VER DEMOSTRACIÓN
 
-🔗 [stefan-trifan.github.io/ESIC/](https://stefan-trifan.github.io/ESIC/)
+🔗 [stefan-trifan.github.io/esic/](https://stefan-trifan.github.io/esic/)
 
 ## Tecnologías utilizadas
 
